@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "ラストシーン",
+  "base_artist": "JUJU",
+  "createdAt": "2026-03-08T07:36:22.197163Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "ラストシーン",
+      "artist": "4s4ki",
+      "has_synced": true,
+      "path": "select/01_ラストシーン_4s4ki.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "ラストシーン",
+      "artist": "Nana Mizuki",
+      "has_synced": true,
+      "path": "select/02_ラストシーン_Nana_Mizuki.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "ラストシーン",
+      "artist": "水樹奈々",
+      "has_synced": true,
+      "path": "select/03_ラストシーン_水樹奈々.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "ラストシーン",
+      "artist": "Novelbright",
+      "has_synced": true,
+      "path": "select/04_ラストシーン_Novelbright.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ラストシーン",
+      "artist": "Sukimaswitch",
+      "has_synced": true,
+      "path": "select/05_ラストシーン_Sukimaswitch.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "ラストシーン",
+      "artist": "スキマスイッチ",
+      "has_synced": true,
+      "path": "select/06_ラストシーン_スキマスイッチ.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "ラストシーン",
+      "artist": "Ikimonogakari",
+      "has_synced": true,
+      "path": "select/07_ラストシーン_Ikimonogakari.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Last Scene [ラストシーン]",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/08_Last_Scene_[ラストシーン]_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "ラストシーン",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/09_ラストシーン_ASIAN_KUNG-FU_GENERATION.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "ラストシーン",
+      "artist": "Masaki Suda",
+      "has_synced": true,
+      "path": "select/10_ラストシーン_Masaki_Suda.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "ラストシーン",
+      "artist": "菅田 将暉",
+      "has_synced": true,
+      "path": "select/11_ラストシーン_菅田_将暉.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "ラストシーン",
+      "artist": "いきものがかり",
+      "has_synced": true,
+      "path": "select/12_ラストシーン_いきものがかり.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "ラストシーン (2016)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": false,
+      "path": "select/13_ラストシーン_(2016)_ASIAN_KUNG-FU_GENERATION.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Last Scene (ラストシーン Rasutoshīn)",
+      "artist": "ASIAN KUNG-FU GENERATION",
+      "has_synced": true,
+      "path": "select/14_Last_Scene_(ラストシーン_Rasutoshīn)_ASIAN_KUNG-FU_GENERATION.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "ラストシーン (M.original mix)",
+      "artist": "奥井雅美",
+      "has_synced": false,
+      "path": "select/15_ラストシーン_(M.original_mix)_奥井雅美.txt"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "ラストシーン",
+      "artist": "奥井雅美",
+      "has_synced": false,
+      "path": "select/16_ラストシーン_奥井雅美.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ラストシーン",
+      "artist": "JUJU",
+      "has_synced": false,
+      "path": "select/pl_01_ラストシーン_JUJU.txt"
+    }
+  ]
+}
